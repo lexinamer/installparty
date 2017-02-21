@@ -27,12 +27,12 @@ Download [Atom](https://atom.io/) as it will be the code editor we use for the c
 
 Once it is downloaded, open the program and do the following:
 1. Click on the `Atom` button in the navbar next to the apple icons
-2. Go to `preferences`
-3. Select `install` next to the + icon
-4. Toggle the `themes` button and search for `outlander`
-5. Install both the `Outlander UI` and `Outlander Syntax` packages
-6. Select `themes` next to the paintbucket icon
-7. Make sure the have the Outlander theme selected in both places (it should be come dark with different colors)
+<br> 2. Go to `preferences`
+<br> 3. Select `install` next to the + icon
+<br> 4. Toggle the `themes` button and search for `outlander`
+<br> 5. Install both the `Outlander UI` and `Outlander Syntax` packages
+<br> 6. Select `themes` next to the paintbucket icon
+<br> 7. Make sure the have the Outlander theme selected in both places (it should be come dark with different colors)
 
 # Command Line Manager
 Download [iTerm](https://www.iterm2.com/), which we will be using instead of Mac's default Terminal program. 
