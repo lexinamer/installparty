@@ -49,7 +49,7 @@ The terminal uses shells to run things. The default shell is Bash, or Bourne-Aga
 
 You download [zsh](http://ohmyz.sh/) through iTerm. Install the shell by copying and pasting the following and hitting enter: 
 ```
-$ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
 Now copy and paste the following to install [Homebrew](https://brew.sh/), which is a packaging manager for the terminal that makes things easier to install:
