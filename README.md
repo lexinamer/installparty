@@ -38,10 +38,10 @@ Once it is downloaded, open the program and do the following:
 Download [iTerm](https://www.iterm2.com/), which we will be using instead of Mac's default Terminal program. 
 
 Once it is downloaded, open the program and do the follow:
-1. Copy and paste the following: `xcode-select --install`
-2. Hit enter and it should automatically download a bunch of packages
-3. Copy and paste the following: `git --version` and hit enter
-4. You should now see the following message: _git version 2.7.4 (Apple Git-66)_
+<br> 1. Copy and paste the following: `xcode-select --install`
+<br> 2. Hit enter and it should automatically download a bunch of packages
+<br> 3. Copy and paste the following: `git --version` and hit enter
+<br> 4. You should now see the following message: _git version 2.7.4 (Apple Git-66)_
 
 
 # Zsh and Brew
